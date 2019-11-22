@@ -31,10 +31,8 @@ There is also a special `Root` folder in `/modules`, which holds the static appl
 Each component has a boilerplate set of files:
 
 - `index.js`
-- `container.js`
 - `Component.js`
 - `Component.native.js`
-- `poses.js`
 - `styles.js`
 
 **In the current, we have not seperate structure to isomorphic react yet, because we have not plan for web yet too.**
