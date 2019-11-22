@@ -35,7 +35,7 @@ Each component has a boilerplate set of files:
 - `Component.native.js`
 - `styles.js`
 
-**In the current, we have not seperate structure to isomorphic react yet, because we have not plan for web yet too.**
+**In the current, we have not seperated structure to isomorphic react yet, because we have not planned for web yet too.**
 
 Screenshot:
 ![Jeera](https://github.com/youngt-studio/jeera-platform/blob/master/brochure/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202019-11-22%20at%2022.43.59.png)
