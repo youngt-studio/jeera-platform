@@ -1,0 +1,1 @@
+export const ON_SELECT_TAB_NAVIGATION = '@navigation/ON_SELECT_TAB_NAVIGATION';
